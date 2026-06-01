@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Ruhullah Rezai 👋
 
-<!--
-**rohullahr914-pixel/rohullahr914-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Axiom
 
-Here are some ideas to get you started:
+Building the Future of Autonomous AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Founder of Axiom
+- Building AI-powered products and SaaS platforms
+- Passionate about innovation and technology
+- Learning and improving every day
+
+---
+
+## Current Focus
+
+- Autonomous AI Systems
+- Multi-Agent Architectures
+- FastAPI
+- Python
+- SaaS Development
+
+---
+
+## Tech Stack
+
+Python • FastAPI • PostgreSQL • Redis • Docker • Git • Linux
+
+---
+
+## Featured Projects
+
+### Autonomous AI SaaS
+Production-grade multi-agent AI platform.
+
+### WA Spare Parts
+Professional spare parts marketplace.
+
+### Rohul Builder AI
+AI-powered website generation platform.
+
+---
+
+## Vision
+
+Creating technology that helps people build faster, think bigger, and achieve more.
